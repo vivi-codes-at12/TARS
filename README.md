@@ -1,5 +1,5 @@
 
-# TARS BRAIN
+# TARS
 
 An ambitious hybrid artificial intelligence project inspired by TARS from Interstellar.
 
